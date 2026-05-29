@@ -1,0 +1,22 @@
+# Dart/Flutter build artifacts
+**/doc/api/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+pubspec.lock
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Signing / secrets
+*.pem
+*.p12
+*.jks
+*.keystore

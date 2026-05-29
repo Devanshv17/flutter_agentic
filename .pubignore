@@ -1,0 +1,13 @@
+# Build artifacts — exclude from published package
+build/
+
+# macOS / IDE artifacts
+.DS_Store
+.idea/
+.vscode/
+
+# Coverage reports
+coverage/
+
+# Local test output
+*.log

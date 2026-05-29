@@ -1,0 +1,38 @@
+name: genesis_ai_sdk
+description: >-
+  A universal Flutter SDK for local and cloud AI agents.
+  Unified interface for Gemini, OpenAI, Anthropic, HuggingFace, Ollama,
+  and on-device Gemma / GGUF models with tool calling, ReAct loops,
+  smart routing, persistent memory, and safety guardrails.
+version: 0.1.0
+homepage: https://github.com/Devanshv17/genesis_ai
+repository: https://github.com/Devanshv17/genesis_ai
+issue_tracker: https://github.com/Devanshv17/genesis_ai/issues
+topics:
+  - flutter
+  - ai
+  - llm
+  - agent
+  - on-device
+  - gemma
+  - openai
+  - anthropic
+
+environment:
+  sdk: ^3.7.2
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.4.0
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  flutter_gemma: ^0.16.0
+  llama_cpp_dart: ^0.2.2
+  path_provider: ^2.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0

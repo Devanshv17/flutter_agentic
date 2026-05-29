@@ -1,0 +1,22 @@
+name: genesis_ai_sdk_example
+description: Comprehensive example app for genesis_ai_sdk.
+publish_to: none
+version: 1.0.0
+
+environment:
+  sdk: ^3.7.2
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  genesis_ai_sdk:
+    path: ../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true

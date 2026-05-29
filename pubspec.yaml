@@ -5,18 +5,15 @@ description: >-
   and on-device Gemma / GGUF models with tool calling, ReAct loops,
   smart routing, persistent memory, and safety guardrails.
 version: 0.1.0
-homepage: https://github.com/Devanshv17/genesis_ai
-repository: https://github.com/Devanshv17/genesis_ai
-issue_tracker: https://github.com/Devanshv17/genesis_ai/issues
+homepage: https://github.com/Devanshv17/genesis_ai_sdk
+repository: https://github.com/Devanshv17/genesis_ai_sdk
+issue_tracker: https://github.com/Devanshv17/genesis_ai_sdk/issues
 topics:
   - flutter
   - ai
   - llm
   - agent
   - on-device
-  - gemma
-  - openai
-  - anthropic
 
 environment:
   sdk: ^3.7.2

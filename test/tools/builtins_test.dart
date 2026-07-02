@@ -1,7 +1,7 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:flutter_agents/flutter_agents.dart';
-import 'package:flutter_agents/src/tools/builtins/calculator_tool.dart';
-import 'package:flutter_agents/src/tools/builtins/datetime_tool.dart';
+import 'package:flutter_agentic/flutter_agentic.dart';
+import 'package:flutter_agentic/src/tools/builtins/calculator_tool.dart';
+import 'package:flutter_agentic/src/tools/builtins/datetime_tool.dart';
 
 void main() {
   group('Calculator tool (calculate)', () {

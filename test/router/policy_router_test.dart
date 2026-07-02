@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:flutter_agents/flutter_agents.dart';
+import 'package:flutter_agentic/flutter_agentic.dart';
 
 /// Fake provider that records calls and returns a fixed reply.
 class _FakeProvider extends LlmProvider {

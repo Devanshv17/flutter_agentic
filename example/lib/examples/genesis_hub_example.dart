@@ -12,9 +12,9 @@
 library;
 
 import 'package:flutter/material.dart';
-import 'package:flutter_agents/flutter_agents.dart';
+import 'package:flutter_agentic/flutter_agentic.dart';
 // ignore: implementation_imports
-import 'package:flutter_agents/src/hub/genesis_hub.dart';
+import 'package:flutter_agentic/src/hub/genesis_hub.dart';
 
 const _hfToken = String.fromEnvironment('HF_TOKEN', defaultValue: '');
 

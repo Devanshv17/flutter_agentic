@@ -1,5 +1,5 @@
 // ignore_for_file: unused_element
-/// Developer reference: real-world tool patterns for flutter_agents.
+/// Developer reference: real-world tool patterns for flutter_agentic.
 ///
 /// Copy-paste any example as your starting point.
 /// All examples compile and use only the public SDK API.
@@ -17,7 +17,7 @@
 /// 10. Tool composed of other tools    [_composedTool]
 library;
 
-import 'package:flutter_agents/flutter_agents.dart';
+import 'package:flutter_agentic/flutter_agentic.dart';
 
 // ─────────────────────────────────────────────────────────────────────────────
 // 1. Simple lookup tool

@@ -11,10 +11,10 @@ import 'dart:io';
 
 import 'package:flutter/foundation.dart' show debugPrint;
 import 'package:flutter_test/flutter_test.dart';
-import 'package:flutter_agents/src/core/message.dart';
-import 'package:flutter_agents/src/hub/genesis_hub.dart';
-import 'package:flutter_agents/src/providers/hf_inference_provider.dart';
-import 'package:flutter_agents/src/providers/llm_provider.dart' show TextResult;
+import 'package:flutter_agentic/src/core/message.dart';
+import 'package:flutter_agentic/src/hub/genesis_hub.dart';
+import 'package:flutter_agentic/src/providers/hf_inference_provider.dart';
+import 'package:flutter_agentic/src/providers/llm_provider.dart' show TextResult;
 
 // ── Config ──────────────────────────────────────────────────────────────────
 

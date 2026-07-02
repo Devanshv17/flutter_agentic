@@ -5,10 +5,10 @@ library;
 
 import 'dart:io';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:flutter_agents/src/hub/model_format.dart';
-import 'package:flutter_agents/src/hub/universal_model_manager.dart';
-import 'package:flutter_agents/src/providers/gemma_provider.dart';
-import 'package:flutter_agents/src/providers/ollama_provider.dart';
+import 'package:flutter_agentic/src/hub/model_format.dart';
+import 'package:flutter_agentic/src/hub/universal_model_manager.dart';
+import 'package:flutter_agentic/src/providers/gemma_provider.dart';
+import 'package:flutter_agentic/src/providers/ollama_provider.dart';
 
 void main() {
   // ── isDownloaded / deleteModel ───────────────────────────────────────────

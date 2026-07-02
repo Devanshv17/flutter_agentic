@@ -283,7 +283,7 @@ abstract class UniversalModelManager {
       case ModelFormat.gguf:
         throw UnsupportedError(
           'GGUF detected — use LlamaCppProvider directly:\n'
-          "  import 'package:flutter_agents/src/providers/llama_cpp_provider.dart';\n"
+          "  import 'package:flutter_agentic/src/providers/llama_cpp_provider.dart';\n"
           '  LlamaCppProvider(modelPath: "$modelPath")',
         );
 

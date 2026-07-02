@@ -1,5 +1,5 @@
-name: flutter_agents_example
-description: Comprehensive example app for flutter_agents.
+name: flutter_agentic_example
+description: Comprehensive example app for flutter_agentic.
 publish_to: none
 version: 1.0.0
 
@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_agents:
+  flutter_agentic:
     path: ../
 
 dev_dependencies:

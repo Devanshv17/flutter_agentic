@@ -5,7 +5,7 @@
 library;
 
 import 'package:flutter/material.dart';
-import 'package:flutter_agents/flutter_agents.dart';
+import 'package:flutter_agentic/flutter_agentic.dart';
 
 // Pass your key via --dart-define=GEMINI_KEY=your_key
 const _geminiKey = String.fromEnvironment('GEMINI_KEY', defaultValue: '');
